@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba del modulo 2 del PrepCourse Henry
+Estre es un proyecto de como crear una repositorio y clonarlo desde gifhub
